@@ -1,11 +1,14 @@
 <script>
 	export let name;
+	
 </script>
 
-<style>
-	h1 {
-		color: purple;
-	}
+<style lang="scss" global>
+@import "./theme/global.scss";
 </style>
 
 <h1>Hello {name}!</h1>
+
+<div class="container">
+<p>KEKS KEKS</p>
+</div>
