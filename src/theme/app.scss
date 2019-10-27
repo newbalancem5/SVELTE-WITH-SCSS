@@ -1,0 +1,15 @@
+.navigation-bar{
+    width: 200px;
+    height: 300px;
+    background-color: #2fffff;
+        & .container{
+            width: 200px;
+            height: 200px;
+            background-color: red;
+    }
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}

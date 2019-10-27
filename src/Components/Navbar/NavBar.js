@@ -1,4 +1,0 @@
-
-const navBar = new NavBar({
-    
-})
